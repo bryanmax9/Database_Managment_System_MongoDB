@@ -1,0 +1,1 @@
+myConnectString = "mongodb+srv://bryantineoccasani:5IE2sBx0f97yhnCv@cecs-323-spring-2023.fivtmqe.mongodb.net/?retryWrites=true&w=majority"
