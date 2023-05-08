@@ -1113,7 +1113,7 @@ def drop_all_collections(db):
     DELETING TABLES... (Staring from 0 tables) 
     """)
 
-    collections = ['departments', 'courses', 'sections', 'students', 'enrollment']
+    collections = ['departments', 'courses', 'sections', 'students', 'enrollments']
     for collection in collections:
         db[collection].drop()
 
